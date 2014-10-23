@@ -1,0 +1,35 @@
+ul#bookList li div {
+	display: inline-block;
+	width: 30%;
+}
+
+.left {
+	text-align: center;
+}
+
+.right {
+	text-align: center;
+}
+
+.center {
+	width: 40% !important;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	width: 600px;
+}
+
+ul#bookList li  {
+		border: 1px solid black;
+		padding: 20px;
+}
+
+div ul  li{
+	display: inline-block;
+	width: 30%;
+	text-align:center;
+	font-weight:bold;
+	text-decoration:underline;
+}
